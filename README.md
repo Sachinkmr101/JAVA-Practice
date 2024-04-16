@@ -1,1 +1,1 @@
-# JAVA-Practice
+# Training schedule management 
