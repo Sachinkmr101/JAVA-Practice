@@ -40,4 +40,4 @@ As part of this operation, the faculty has to get details of the training schedu
 Cancel a training schedule allocated to him/her:
 As part of this operation, the faculty should be able to request to cancel a training schedule allocated to him/her.
 
-#This project develop by learning purpose.
+# This project develop by learning purpose.
